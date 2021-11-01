@@ -1,0 +1,364 @@
+FishID	Family
+1	Acanthuridae
+2	Acanthuridae
+3	Acanthuridae
+4	Apogonidae
+5	Apogonidae
+6	Aulostomidae
+7	Balistidae
+8	Balistidae
+9	Balistidae
+10	Balistidae
+11	Balistidae
+12	Blenniidae
+13	Blenniidae
+14	Carangidae
+15	Carangidae
+16	Carangidae
+17	Carangidae
+18	Carangidae
+19	Carangidae
+20	Carangidae
+21	Carcharhinidae
+22	Carcharhinidae
+23	Carcharhinidae
+24	Carcharhinidae
+25	Chaenopsidae
+26	Chaetodontidae
+27	Chaetodontidae
+28	Chaetodontidae
+29	Chaetodontidae
+30	Cirrhitidae
+31	Dasyatidae
+32	Diodontidae
+33	Diodontidae
+34	Echeneidae
+35	Echeneidae
+36	Ginglymostomatidae
+37	Gobiidae
+38	Gobiidae
+39	Gobiidae
+40	Gobiidae
+41	Gobiidae
+42	Gobiidae
+43	Gobiidae
+44	Gobiidae
+45	Haemulidae
+46	Haemulidae
+47	Haemulidae
+48	Holocentridae
+49	Holocentridae
+50	Holocentridae
+51	Holocentridae
+52	Holocentridae
+53	Holocentridae
+54	Inermiidae
+55	Inermiidae
+56	Kyphosidae
+57	Labridae
+58	Labridae
+59	Labridae
+60	Labridae
+61	Labridae
+62	Labridae
+63	Labridae
+64	Labridae
+65	Labridae
+66	Labridae
+67	Labridae
+68	Labridae
+69	Labridae
+70	Labridae
+71	Labridae
+72	Labridae
+73	Lutjanidae
+74	Lutjanidae
+75	Lutjanidae
+76	Lutjanidae
+77	Lutjanidae
+78	Lutjanidae
+79	Lutjanidae
+80	Malacanthidae
+81	Microdesmidae
+82	Monacanthidae
+83	Monacanthidae
+84	Mullidae
+85	Mullidae
+86	Muraenidae
+87	Muraenidae
+88	Myliobatidae
+89	Opistognathidae
+90	Ostraciidae
+91	Ostraciidae
+92	Ostraciidae
+93	Pomacanthidae
+94	Pomacanthidae
+95	Pomacanthidae
+96	Pomacanthidae
+97	Pomacanthidae
+98	Pomacanthidae
+99	Pomacanthidae
+100	Pomacentridae
+101	Pomacentridae
+102	Pomacentridae
+103	Pomacentridae
+104	Pomacentridae
+105	Pomacentridae
+106	Pomacentridae
+107	Pomacentridae
+108	Pomacentridae
+109	Pomacentridae
+110	Pomacentridae
+111	Pomacentridae
+112	Pomacentridae
+113	Priacanthidae
+114	Sciaenidae
+115	Sciaenidae
+116	Sciaenidae
+117	Scorpaenidae
+118	Serranidae
+119	Serranidae
+120	Serranidae
+121	Serranidae
+122	Serranidae
+123	Serranidae
+124	Serranidae
+125	Serranidae
+126	Serranidae
+127	Serranidae
+128	Serranidae
+129	Serranidae
+130	Serranidae
+131	Serranidae
+132	Serranidae
+133	Serranidae
+134	Serranidae
+135	Serranidae
+136	Serranidae
+137	Serranidae
+138	Sparidae
+139	Sparidae
+140	Sparidae
+141	Sphyraenidae
+142	Synodontidae
+143	Synodontidae
+144	Tetraodontidae
+145	Tetraodontidae
+146	Tetraodontidae
+FishID	Family	CommonName
+119	Serranidae	Coney
+FishID	Family	LocationID	SurveyIndex
+3	Acanthuridae	1	6521
+3	Acanthuridae	1	6521
+5	Apogonidae	1	6521
+15	Carangidae	1	6521
+27	Chaetodontidae	1	6521
+29	Chaetodontidae	1	6521
+33	Diodontidae	1	6521
+48	Holocentridae	1	6521
+48	Holocentridae	1	6521
+49	Holocentridae	1	6521
+49	Holocentridae	1	6521
+50	Holocentridae	1	6521
+51	Holocentridae	1	6521
+52	Holocentridae	1	6521
+57	Labridae	1	6521
+57	Labridae	1	6521
+57	Labridae	1	6521
+58	Labridae	1	6521
+58	Labridae	1	6521
+59	Labridae	1	6521
+68	Labridae	1	6521
+69	Labridae	1	6521
+69	Labridae	1	6521
+71	Labridae	1	6521
+76	Lutjanidae	1	6521
+85	Mullidae	1	6521
+99	Pomacanthidae	1	6521
+105	Pomacentridae	1	6521
+111	Pomacentridae	1	6521
+111	Pomacentridae	1	6521
+118	Serranidae	1	6521
+122	Serranidae	1	6521
+126	Serranidae	1	6521
+127	Serranidae	1	6521
+127	Serranidae	1	6521
+130	Serranidae	1	6521
+132	Serranidae	1	6521
+132	Serranidae	1	6521
+132	Serranidae	1	6521
+132	Serranidae	1	6521
+145	Tetraodontidae	1	6521
+typ	FishID	family
+fish	1	Acanthuridae
+fish	2	Acanthuridae
+fish	3	Acanthuridae
+fish	4	Apogonidae
+fish	5	Apogonidae
+fish	6	Aulostomidae
+fish	7	Balistidae
+fish	8	Balistidae
+fish	9	Balistidae
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+fishinfo	1	6521
+FishID	Family	LocationID	SurveyIndex
+145	Tetraodontidae	1	6521
+132	Serranidae	1	6521
+132	Serranidae	1	6521
+132	Serranidae	1	6521
+132	Serranidae	1	6521
+130	Serranidae	1	6521
+127	Serranidae	1	6521
+127	Serranidae	1	6521
+126	Serranidae	1	6521
+122	Serranidae	1	6521
+118	Serranidae	1	6521
+111	Pomacentridae	1	6521
+111	Pomacentridae	1	6521
+105	Pomacentridae	1	6521
+99	Pomacanthidae	1	6521
+85	Mullidae	1	6521
+76	Lutjanidae	1	6521
+71	Labridae	1	6521
+69	Labridae	1	6521
+69	Labridae	1	6521
+68	Labridae	1	6521
+59	Labridae	1	6521
+58	Labridae	1	6521
+58	Labridae	1	6521
+57	Labridae	1	6521
+57	Labridae	1	6521
+57	Labridae	1	6521
+52	Holocentridae	1	6521
+51	Holocentridae	1	6521
+50	Holocentridae	1	6521
+49	Holocentridae	1	6521
+49	Holocentridae	1	6521
+48	Holocentridae	1	6521
+48	Holocentridae	1	6521
+33	Diodontidae	1	6521
+29	Chaetodontidae	1	6521
+27	Chaetodontidae	1	6521
+15	Carangidae	1	6521
+5	Apogonidae	1	6521
+3	Acanthuridae	1	6521
+3	Acanthuridae	1	6521
+FishID	Family	LocationID	SurveyIndex
+3	Acanthuridae	217	7182
+8	Balistidae	217	7182
+8	Balistidae	217	7182
+15	Carangidae	217	7182
+27	Chaetodontidae	217	7182
+29	Chaetodontidae	217	7182
+49	Holocentridae	217	7182
+57	Labridae	217	7182
+57	Labridae	217	7182
+58	Labridae	217	7182
+58	Labridae	217	7182
+58	Labridae	217	7182
+59	Labridae	217	7182
+66	Labridae	217	7182
+69	Labridae	217	7182
+69	Labridae	217	7182
+72	Labridae	217	7182
+72	Labridae	217	7182
+76	Lutjanidae	217	7182
+85	Mullidae	217	7182
+94	Pomacanthidae	217	7182
+96	Pomacanthidae	217	7182
+103	Pomacentridae	217	7182
+103	Pomacentridae	217	7182
+105	Pomacentridae	217	7182
+105	Pomacentridae	217	7182
+117	Scorpaenidae	217	7182
+117	Scorpaenidae	217	7182
+118	Serranidae	217	7182
+120	Serranidae	217	7182
+122	Serranidae	217	7182
+122	Serranidae	217	7182
+127	Serranidae	217	7182
+130	Serranidae	217	7182
+130	Serranidae	217	7182
+132	Serranidae	217	7182
+139	Sparidae	217	7182
+141	Sphyraenidae	217	7182
+145	Tetraodontidae	217	7182
+FishID	Family	LocationID	SurveyIndex
+3	Acanthuridae	217	7182
+8	Balistidae	217	7182
+8	Balistidae	217	7182
+15	Carangidae	217	7182
+27	Chaetodontidae	217	7182
+29	Chaetodontidae	217	7182
+49	Holocentridae	217	7182
+57	Labridae	217	7182
+57	Labridae	217	7182
+58	Labridae	217	7182
+58	Labridae	217	7182
+58	Labridae	217	7182
+59	Labridae	217	7182
+66	Labridae	217	7182
+69	Labridae	217	7182
+69	Labridae	217	7182
+72	Labridae	217	7182
+72	Labridae	217	7182
+76	Lutjanidae	217	7182
+85	Mullidae	217	7182
+94	Pomacanthidae	217	7182
+96	Pomacanthidae	217	7182
+103	Pomacentridae	217	7182
+103	Pomacentridae	217	7182
+105	Pomacentridae	217	7182
+105	Pomacentridae	217	7182
+117	Scorpaenidae	217	7182
+117	Scorpaenidae	217	7182
+118	Serranidae	217	7182
+120	Serranidae	217	7182
+122	Serranidae	217	7182
+122	Serranidae	217	7182
+127	Serranidae	217	7182
+130	Serranidae	217	7182
+130	Serranidae	217	7182
+132	Serranidae	217	7182
+139	Sparidae	217	7182
+141	Sphyraenidae	217	7182
+145	Tetraodontidae	217	7182
